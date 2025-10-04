@@ -1,0 +1,5 @@
+/* Warna hover untuk ikon sosial */
+.social[aria-label="GitHub"]:hover { color: #b0b0b0; }
+.social[aria-label="Instagram"]:hover { color: #e1306c; }
+.social[aria-label="Facebook"]:hover { color: #1877f2; }
+
